@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeviS-coder
 - 👀 I’m interested in UI/UX
-- 🌱 I’m currently exploring React
+
 
 
 <!---
